@@ -1,0 +1,39 @@
+{
+	"playlistName": "Tracking",
+	"playlistId": 307794,
+	"authorSteamId": "76561199106102216",
+	"authorName": "biley",
+	"scenarioList": [
+		{
+			"scenario_name": "Controlsphere",
+			"play_Count": 5
+		},
+		{
+			"scenario_name": "ADJUSTTRACK - VALORANT",
+			"play_Count": 5
+		},
+		{
+			"scenario_name": "cloverRawControl Easy",
+			"play_Count": 5
+		},
+		{
+			"scenario_name": "Air Angelic 4 Voltaic Easy 80% (Good Version)",
+			"play_Count": 5
+		},
+		{
+			"scenario_name": "Air Angelic 4 Voltaic",
+			"play_Count": 5
+		},
+		{
+			"scenario_name": "centering I",
+			"play_Count": 5
+		}
+	],
+	"description": "",
+	"hasOfflineScenarios": false,
+	"hasEdited": false,
+	"shareCode": "",
+	"version": 31,
+	"updated": 1737397352,
+	"isPrivate": false
+}

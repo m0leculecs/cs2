@@ -1,0 +1,52 @@
+{
+	"themeName": "snowi_pinkybluey_10-06-21",
+	"wallMaterial": "CONCRETE TILES",
+	"wallRoughness": 0.54000002145767212,
+	"wallMetallic": 0,
+	"wallFullBright": 0.69999998807907104,
+	"wallTint":
+	{
+		"x": 0.62396037578582764,
+		"y": 0.4969329833984375,
+		"z": 0.51491767168045044
+	},
+	"floorMaterial": "MARBLE POLISHED",
+	"floorRoughness": 1,
+	"floorMetallic": 0,
+	"floorFullBright": 0.33000001311302185,
+	"floorTint":
+	{
+		"x": 0.47932016849517822,
+		"y": 0.45641103386878967,
+		"z": 0.5711248517036438
+	},
+	"overrideEnemyHeadColor": false,
+	"overrideEnemyBodyColor": true,
+	"setEnemyBodyColorAsAttackColor": false,
+	"enemyColorRoughness": 0,
+	"enemyColorMetallic": 0.079999998211860657,
+	"enemyColorFullBright": 0.50999999046325684,
+	"enemyHeadColor":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 1
+	},
+	"enemyBodyColor":
+	{
+		"x": 1,
+		"y": 0.26225066184997559,
+		"z": 0.66538727283477783
+	},
+	"skyPresetId": 6,
+	"cloudCoverId": 0,
+	"solidSkyColor": false,
+	"sunVisible": false,
+	"skyColor":
+	{
+		"b": 234,
+		"g": 206,
+		"r": 255,
+		"a": 255
+	}
+}

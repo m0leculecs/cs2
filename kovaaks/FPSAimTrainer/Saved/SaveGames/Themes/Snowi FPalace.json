@@ -1,0 +1,52 @@
+{
+	"themeName": "snowi_fagPalace_18-08-21",
+	"wallMaterial": "MARBLE POLISHED",
+	"wallRoughness": 0.25,
+	"wallMetallic": 0,
+	"wallFullBright": 1,
+	"wallTint":
+	{
+		"x": 0.5088813304901123,
+		"y": 0.44520118832588196,
+		"z": 0.5088813304901123
+	},
+	"floorMaterial": "MARBLE POLISHED",
+	"floorRoughness": 1,
+	"floorMetallic": 0,
+	"floorFullBright": 1,
+	"floorTint":
+	{
+		"x": 0.64447969198226929,
+		"y": 0.51491767168045044,
+		"z": 0.57758045196533203
+	},
+	"overrideEnemyHeadColor": false,
+	"overrideEnemyBodyColor": true,
+	"setEnemyBodyColorAsAttackColor": false,
+	"enemyColorRoughness": 0.6600000262260437,
+	"enemyColorMetallic": 0,
+	"enemyColorFullBright": 1,
+	"enemyHeadColor":
+	{
+		"x": 1,
+		"y": 0.51491767168045044,
+		"z": 0.71569347381591797
+	},
+	"enemyBodyColor":
+	{
+		"x": 0.57758045196533203,
+		"y": 0.57758045196533203,
+		"z": 0.57758045196533203
+	},
+	"skyPresetId": 6,
+	"cloudCoverId": 2,
+	"solidSkyColor": false,
+	"sunVisible": false,
+	"skyColor":
+	{
+		"b": 183,
+		"g": 192,
+		"r": 255,
+		"a": 255
+	}
+}

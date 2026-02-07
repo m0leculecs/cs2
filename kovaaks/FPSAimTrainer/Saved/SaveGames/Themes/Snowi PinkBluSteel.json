@@ -1,0 +1,52 @@
+{
+	"themeName": "snowi_pinkbluSteel_17-08-21",
+	"wallMaterial": "GREY WOOD BOARD",
+	"wallRoughness": 0.2199999988079071,
+	"wallMetallic": 0.5,
+	"wallFullBright": 0.5,
+	"wallTint":
+	{
+		"x": 0.7304607629776001,
+		"y": 0.7304607629776001,
+		"z": 0.81484657526016235
+	},
+	"floorMaterial": "MARBLE POLISHED",
+	"floorRoughness": 0.76999998092651367,
+	"floorMetallic": 0.25,
+	"floorFullBright": 0.25,
+	"floorTint":
+	{
+		"x": 0.12743768095970154,
+		"y": 0.12743768095970154,
+		"z": 0.12743768095970154
+	},
+	"overrideEnemyHeadColor": false,
+	"overrideEnemyBodyColor": true,
+	"setEnemyBodyColorAsAttackColor": false,
+	"enemyColorRoughness": 0.69999998807907104,
+	"enemyColorMetallic": 0,
+	"enemyColorFullBright": 0.60000002384185791,
+	"enemyHeadColor":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 1
+	},
+	"enemyBodyColor":
+	{
+		"x": 0.57758045196533203,
+		"y": 0.30498731136322021,
+		"z": 0.51491767168045044
+	},
+	"skyPresetId": 6,
+	"cloudCoverId": 0,
+	"solidSkyColor": false,
+	"sunVisible": true,
+	"skyColor":
+	{
+		"b": 120,
+		"g": 111,
+		"r": 126,
+		"a": 255
+	}
+}

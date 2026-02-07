@@ -1,0 +1,52 @@
+{
+	"themeName": "snowi_bgSteel_17-09-21",
+	"wallMaterial": "GREY WOOD BOARD",
+	"wallRoughness": 0.6600000262260437,
+	"wallMetallic": 0,
+	"wallFullBright": 0.6600000262260437,
+	"wallTint":
+	{
+		"x": 0.7304607629776001,
+		"y": 0.7304607629776001,
+		"z": 0.81484657526016235
+	},
+	"floorMaterial": "MARBLE POLISHED",
+	"floorRoughness": 0.76999998092651367,
+	"floorMetallic": 0.25,
+	"floorFullBright": 0.25,
+	"floorTint":
+	{
+		"x": 0.32314321398735046,
+		"y": 0.30054378509521484,
+		"z": 0.35153260827064514
+	},
+	"overrideEnemyHeadColor": true,
+	"overrideEnemyBodyColor": true,
+	"setEnemyBodyColorAsAttackColor": true,
+	"enemyColorRoughness": 0.69999998807907104,
+	"enemyColorMetallic": 0,
+	"enemyColorFullBright": 0.60000002384185791,
+	"enemyHeadColor":
+	{
+		"x": 1,
+		"y": 0.51491767168045044,
+		"z": 0.71569347381591797
+	},
+	"enemyBodyColor":
+	{
+		"x": 0.76052451133728027,
+		"y": 0.76052451133728027,
+		"z": 0.76052451133728027
+	},
+	"skyPresetId": 6,
+	"cloudCoverId": 0,
+	"solidSkyColor": true,
+	"sunVisible": true,
+	"skyColor":
+	{
+		"b": 116,
+		"g": 97,
+		"r": 95,
+		"a": 255
+	}
+}
